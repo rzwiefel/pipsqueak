@@ -47,6 +47,7 @@
     }
   },
   "dependencies": {
+    "@material-ui/core": "^3.2.2",
     "@types/electron-devtools-installer": "^2.2.0",
     "@types/react": "^0.14.57",
     "@types/react-dom": "^0.14.23",
